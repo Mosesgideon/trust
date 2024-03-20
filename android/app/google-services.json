@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680866431946",
+    "project_id": "trustmining-11b30",
+    "storage_bucket": "trustmining-11b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680866431946:android:a0fed621ac7efe6c9a4533",
+        "android_client_info": {
+          "package_name": "com.example.trust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUsZwITNL-CJ0aYSB0NdCZ-3vKVoDmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
